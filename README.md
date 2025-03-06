@@ -1,6 +1,6 @@
 # Music Player
 
-A simple and stylish music player built with HTML, CSS, and JavaScript.  This project allows users to play, pause, skip tracks, and adjust the volume.  It features a visually appealing interface and utilizes custom range sliders for a polished user experience.
+A simple and stylish music player built with HTML, CSS, and JavaScript.  This project allows users to play, pause, skip tracks, and adjust the volume.  It features a visually appealing interface and utilizes custom range sliders for a polished user experiences.
 
 ## Project Structure
 
